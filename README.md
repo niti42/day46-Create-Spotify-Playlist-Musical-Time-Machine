@@ -2,4 +2,4 @@
 
 use webscraping to get data from bilboard hot 100 for the specific week
 use spotify api to create a playlist
-share the playlist to myself or friends
+share the playlist to myself or friends via emails (pre fetced)
