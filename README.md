@@ -37,7 +37,8 @@ export SPOTIPY_REDIRECT_URI='your_redirect_uri'
 
 Run the script and follow the prompts to generate your Spotify playlist:
 
-```python main.py
+```bash
+python main.py
 
 ```
 
@@ -47,5 +48,5 @@ You will be prompted to enter a date in the format YYYY-MM-DD. The script will s
 
 ## Acknowledgements
 
-**Billboard** for providing the Hot 100 chart data.
+**Billboard** for providing the Hot 100 chart data.\
 **Spotify** for their API and platform.
